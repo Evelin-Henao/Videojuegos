@@ -1,0 +1,4 @@
+com\mycompany\serviciocrud\resources\JakartaEE91Resource.class
+Modelo\JuegosService.class
+Setvlets\Controlador.class
+com\mycompany\serviciocrud\JakartaRestConfiguration.class
